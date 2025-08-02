@@ -35,7 +35,6 @@ Hackathon 1/styles.css: Path to the main stylesheet.
 
 Hackathon 1/images/: Folder for all the pictures used in the portfolio.
 
-Design Approach
 This portfolio is built with mobile-first principles, meaning it’s designed for smaller screens first, then enhanced for larger viewports. 
 The CSS is modular and organized by section to make updates and maintenance easy. 
 All interactivity and layout are handled purely with CSS — there is no JavaScript included.
