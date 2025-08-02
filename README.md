@@ -11,7 +11,9 @@ Custom CSS for layout, styling, and transitions.
 
 Lightweight and fast-loading — no external libraries or dependencies.
 
-Project Structure
+
+**Project Structure**
+
 
 index.html: The main html page.
   Inside there you will find a total of 5 Sections.
@@ -34,6 +36,7 @@ The contact section contains a contact form. It's fully static since within the 
 Hackathon 1/styles.css: Path to the main stylesheet.
 
 Hackathon 1/images/: Folder for all the pictures used in the portfolio.
+
 
 This portfolio is built with mobile-first principles, meaning it’s designed for smaller screens first, then enhanced for larger viewports. 
 The CSS is modular and organized by section to make updates and maintenance easy. 
